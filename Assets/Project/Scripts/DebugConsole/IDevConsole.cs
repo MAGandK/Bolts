@@ -1,4 +1,7 @@
-public interface IDevConsole
+namespace DebugConsole
 {
+    public interface IDevConsole
+    {
     
+    }
 }
